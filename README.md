@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbVishwas
+- 👋 Hi, I’m Abhijeet, PhD student at VinuesaLab, KTH Royal Institute of Technology
 - 👀 I’m interested in Scientific Machine Learning, Fluid Mechanics 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me avis@kth.se
